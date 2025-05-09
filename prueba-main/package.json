@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node crud-vendedores/app.js",
-    "start": "node crud-vendedores/app.js"
+    "start": "node prueba-main/app.js"
   },
   "keywords": [],
   "author": "",
